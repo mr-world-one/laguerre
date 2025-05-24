@@ -1,0 +1,2 @@
+n,beta,sigma,T,num_points,epsilon,function
+25,2.0,4.0,10.0,100,0.001,Cos(t)
